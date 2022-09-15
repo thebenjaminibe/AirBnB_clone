@@ -1,0 +1,19 @@
+/* Body style */
+body {
+	padding: 0px;
+	margin: 0px;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Container style */
+div.container {
+	margin: 30px auto;
+	max-width: 1000px;
+}
+
+/* Strong style */
+strong {
+	font-weight: bold;
+}
