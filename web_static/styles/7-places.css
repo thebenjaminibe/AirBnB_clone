@@ -1,0 +1,33 @@
+/* Places flexbox */
+.container .places {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	width: 100%;
+}
+
+/* Places header1 style */
+.container .places h1 {
+	font-size: 30px;
+	text-align: top;
+	margin: 0.67em 0;
+	width: 100%;
+	font-weight: bold;
+}
+
+/* Places section style */
+.container .places article {
+	width: 390px;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid #FF5A5F;
+	border-radius: 4px;
+	display: inline-block;
+}
+
+/* Places header2 style */
+.container .places article h2 {
+	font-size: 30px;
+	text-align: center;
+	box-sizing: border-box;
+}
